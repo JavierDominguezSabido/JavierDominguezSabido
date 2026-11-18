@@ -29,4 +29,4 @@ Programo backend con **Java y Spring Boot** y construyo aplicaciones completas c
 
 ### Ahora mismo
 
-Haciendo las prácticas de DAM en EDUCA360 (Unity, realidad virtual y mixta) y buscando mi primer puesto como desarrollador junior.
+Prácticas de DAM terminadas en EDUCA360 (Unity, realidad virtual y mixta). Buscando mi primer puesto como desarrollador Java o Full-Stack, en remoto o con traslado.
